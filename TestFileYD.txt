@@ -1,0 +1,5 @@
+This is a test file for checking correctness of the uploading via API app.
+
+MaximE
+
+15/03/23
